@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ec1b292-1219-4f0d-aa9a-7f6e2d0769a5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../racing2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../racing2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../racing2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../racing2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../racing2/src/test/java/dev/syntax/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step01_di_basic/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step01_di_basic/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step01_di_basic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step01_di_basic/src/main/java/dev/syntax/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step01_di_basic/src/main/java/dev/syntax/step01_dependency/MyRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step01_di_basic/src/main/java/dev/syntax/step01_dependency/Tape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step01_di_basic/src/main/java/dev/syntax/step01_dependency/TapeReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step01_di_basic/src/main/java/dev/syntax/step02_factory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step01_di_basic/src/main/java/dev/syntax/step02_factory/Tape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step01_di_basic/src/main/java/dev/syntax/step02_factory/TapeReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step01_di_basic/src/main/java/dev/syntax/step02_factory/TapeReaderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step01_di_basic/src/main/java/dev/syntax/step03_xml_based_di/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step01_di_basic/src/main/java/dev/syntax/step03_xml_based_di/Tape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step01_di_basic/src/main/java/dev/syntax/step03_xml_based_di/TapeReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step01_di_basic/src/main/java/dev/syntax/step04_constructor_based_di/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step01_di_basic/src/main/java/dev/syntax/step04_constructor_based_di/Tape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step01_di_basic/src/main/java/dev/syntax/step04_constructor_based_di/TapeReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step01_di_basic/src/main/resources/constructor-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step01_di_basic/src/main/resources/setter-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step01_di_basic/src/test/java/dev/syntax/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/syntax/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/syntax/step01_field/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/syntax/step01_field/Tape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/syntax/step01_field/TapeReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/syntax/step02_setter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/syntax/step02_setter/Tape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/syntax/step02_setter/TapeReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/syntax/step03_constructor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/syntax/step03_constructor/Tape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/syntax/step03_constructor/TapeReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/syntax/step04_component_scan/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/syntax/step04_component_scan/Tape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/syntax/step04_component_scan/TapeReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/syntax/step05_annotation_only/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/syntax/step05_annotation_only/Tape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/syntax/step05_annotation_only/TapeReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/annotation-config-constructor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/annotation-config-setter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/annotation-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/component-scan-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/syntax/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7.java/java-testing/.idea/java-testing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7.java/java-testing/lomboktest/src/main/java/dev/syntax/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.jpa/step01_jpa_entity/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.jpa/step01_jpa_entity/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.jpa/step01_jpa_entity/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.jpa/step01_jpa_entity/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.jpa/step01_jpa_entity/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.jpa/step01_jpa_entity/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.jpa/step01_jpa_entity/src/main/java/dev/syntax/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.jpa/step01_jpa_entity/src/main/java/dev/syntax/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.jpa/step01_jpa_entity/src/main/java/dev/syntax/Step01CreatingEntityManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.jpa/step01_jpa_entity/src/main/java/dev/syntax/Step02DoPersistence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.jpa/step01_jpa_entity/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.jpa/step01_jpa_entity/src/test/java/dev/syntax/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../study/algorithm_test/src/main/java/dev/syntax/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nextjs-learn/nextjs-dashboard/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nextjs-learn/nextjs-dashboard/app/dashboard/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nextjs-learn/nextjs-dashboard/app/lib/data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../nextjs-learn/nextjs-dashboard/app/lib/data.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nextjs-learn/nextjs-dashboard/app/query/route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../nextjs-learn/nextjs-dashboard/app/query/route.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nextjs-learn/nextjs-dashboard/app/seed/route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../nextjs-learn/nextjs-dashboard/app/seed/route.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nextjs-learn/nextjs-dashboard/app/ui/dashboard/cards.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../nextjs-learn/nextjs-dashboard/app/ui/dashboard/cards.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nextjs-learn/nextjs-dashboard/app/ui/dashboard/latest-invoices.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../nextjs-learn/nextjs-dashboard/app/ui/dashboard/latest-invoices.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nextjs-learn/nextjs-dashboard/app/ui/dashboard/revenue-chart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../nextjs-learn/nextjs-dashboard/app/ui/dashboard/revenue-chart.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nextjs-learn/nextjs-dashboard/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../nextjs-learn/nextjs-dashboard/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nextjs-learn/nextjs-dashboard/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../nextjs-learn/nextjs-dashboard/pnpm-lock.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="325Gf4LxauRBPkZrg1lpL1f6DmF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.dev.syntax.step02_setter.Main.executor": "Run",
+    "Application.dev.syntax.step03_constructor.Main.executor": "Run",
+    "Application.dev.syntax.step05_annotation_only.Main.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/woori_workspace/10.spring/step02_di_annotation_based/src/main/java/dev/syntax/step05_annotation_only",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\woori_workspace\10.spring\step02_di_annotation_based\src\main\java\dev\syntax\step05_annotation_only" />
+      <recent name="C:\woori_workspace\10.spring\step02_di_annotation_based\src\main\resources" />
+      <recent name="C:\woori_workspace\10.spring\step02_di_annotation_based\src\main\java\dev\syntax\step04_component_scan" />
+      <recent name="C:\woori_workspace\10.spring\step02_di_annotation_based\src\main\java\dev\syntax\step03_constructor" />
+      <recent name="C:\woori_workspace\10.spring\step02_di_annotation_based\src\main\java\dev\syntax\step02_setter" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.dev.syntax.step05_annotation_only.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dev.syntax.step01_field.Main" />
+      <module name="step02_di_annotation_based" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.syntax.step01_field.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dev.syntax.step02_setter.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dev.syntax.step02_setter.Main" />
+      <module name="step02_di_annotation_based" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.syntax.step02_setter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dev.syntax.step03_constructor.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dev.syntax.step03_constructor.Main" />
+      <module name="step02_di_annotation_based" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.syntax.step03_constructor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dev.syntax.step05_annotation_only.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dev.syntax.step05_annotation_only.Main" />
+      <module name="step02_di_annotation_based" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.syntax.step05_annotation_only.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.dev.syntax.step05_annotation_only.Main" />
+        <item itemvalue="Application.dev.syntax.step03_constructor.Main" />
+        <item itemvalue="Application.dev.syntax.step02_setter.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.27812.49" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.27812.49" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ec1b292-1219-4f0d-aa9a-7f6e2d0769a5" name="Changes" comment="" />
+      <created>1756703121206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756703121206</updated>
+      <workItem from="1756703122129" duration="9385000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
